@@ -42,7 +42,5 @@
 <img width="95" height="100" alt="image" src="https://github.com/user-attachments/assets/9425a434-0faf-431a-8022-5b03bd703ba3" />
 <img width="95" height="100" alt="image" src="https://github.com/user-attachments/assets/9425a434-0faf-431a-8022-5b03bd703ba3" />
 <img width="95" height="100" alt="image" src="https://github.com/user-attachments/assets/9425a434-0faf-431a-8022-5b03bd703ba3" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/9425a434-0faf-431a-8022-5b03bd703ba3" />
-<img width="100" height="80" alt="image" src="https://github.com/user-attachments/assets/9425a434-0faf-431a-8022-5b03bd703ba3" />
 
 <p align="center"><sub>Made with ❤️</br>Copyright © 2026-present Bhawna Thareja</sub></p>
